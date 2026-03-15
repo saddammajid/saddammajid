@@ -1,11 +1,44 @@
-- 👋 Hi, I’m @saddammajid
-- 👀 I’m interested in dev-ops/ cloud computing
-- 🌱 I’m currently learning AWS for dev-ops
-- 📫 How to reach me ...
-saddam.majid@yahoo.com
-<!---
-saddammajid/saddammajid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-https://medium.com/@saddam.majid249/journey-through-the-clouds-20f3b322280e
-https://saddamclouddevops.com/
+# About Me
+
+Hello! I'm Saddam, an aspiring Cloud Engineer currently building practical experience through hands-on homelab projects and self-directed learning.
+
+My focus is on developing real-world skills in:
+
+- Server administration
+- Active Directory environments
+- IT support and troubleshooting
+- System administration fundamentals
+- Cloud and infrastructure technologies
+
+I enjoy learning by **building, testing, and documenting real systems**. Alongside homelab work, I am continuously expanding my knowledge in areas such as:
+
+- Windows infrastructure
+- Networking fundamentals
+- Cloud technologies
+- DevOps concepts
+
+---
+
+### Certifications
+
+- AWS Certified Cloud Practitioner
+- AWS Solutions Architect – Associate
+
+---
+
+### Interests
+
+- Homelabs and infrastructure labs
+- Cloud and DevOps technologies
+- AI/ML engineering and Automations
+- Networking
+- Automation and scripting
+
+---
+
+### Contact
+
+Feel free to connect or reach out.
+
+LinkedIn: *www.linkedin.com/in/saddam-h-majid*  
+
