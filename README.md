@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm Saddam, an aspiring Cloud Engineer currently building practical experience through hands-on homelab projects and self-directed learning.
+Hello! I'm Saddam, an IT professional with over 3 years of professional industry experience, learning and practicing new skills through hands-on homelab projects and self-directed learning.
 
 My focus is on developing real-world skills in:
 
