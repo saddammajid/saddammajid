@@ -2,13 +2,6 @@
 
 Hello! I'm Saddam, an IT professional with over 3 years of professional industry experience, learning and practicing new skills through hands-on homelab projects and self-directed learning.
 
-My focus is on developing real-world skills in:
-
-- Server administration
-- Active Directory environments
-- IT support and troubleshooting
-- System administration fundamentals
-- Cloud and infrastructure technologies
 
 I enjoy learning by **building, testing, and documenting real systems**. Alongside homelab work, I am continuously expanding my knowledge in areas such as:
 
